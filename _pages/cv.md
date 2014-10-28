@@ -12,7 +12,7 @@ redirect_from:
 <p align="center"> <b><font size="4">Curriculum Vitae</font></b></p>
 
 <p align="center"> <font size="3"><code>bui.phi</code><b hidden>I</b><code></code><b hidden>dont</b><code>-diep@</code><b hidden>want</b><b hidden>spam!
-            </b><code>.it</code><code>uu</code><b hidden>Leave me alone.</b><code>.se | </code>https://diepbp.github.io </font></p>
+            </b><code>.it.</code><code>uu</code><b hidden>Leave me alone.</b><code>.se | </code>https://diepbp.github.io </font></p>
 
 Education
 ======
