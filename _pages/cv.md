@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+also availabe in [PDF](https://diepbp.github.io/files/cv.pdf)
 <p align="center"> <b><font size="30">Bui Phi Diep</font></b></p>
 
 <p align="center"> <b><font size="4">Curriculum Vitae</font></b></p>
