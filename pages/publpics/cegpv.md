@@ -1,6 +1,6 @@
 ---
 layout: frontpage
-title: R/qtlcharts example
+title: CEGPV example
 ---
 
 <div class="navbar">
@@ -12,6 +12,8 @@ title: R/qtlcharts example
   </div>
 </div>
 
+[CEGPV ![pdf (1.5M)](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/FM16.pdf) is our counter-example guided abstraction refinement algorithm for the automatic verification of concurrent programs.
+The figure shows different steps in our algorithms. 
 [R/qtlcharts](http://kbroman.org/qtlcharts), an R package to create
 interactive data visualizations for QTL data<br/>
 (see [Broman (2015) Genetics 199:359-361](http://www.ncbi.nlm.nih.gov/pubmed/25527287))
