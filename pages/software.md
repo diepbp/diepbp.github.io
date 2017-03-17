@@ -3,7 +3,7 @@ layout: page
 title: tools
 description: Diep's software
 ---
-
+<!-- 
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
@@ -13,6 +13,7 @@ description: Diep's software
         </ul>
     </div>
 </div>
+-->
 
 ---
 
