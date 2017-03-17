@@ -32,7 +32,7 @@ He is interested in program verification and constraint solving.
 
 <table class="wide">
 <tr>
-  <td class="left">
+  <td class="center">
     <a href="pages/publpics/cegpv.html">
         <img src="assets/publpics/cegpv.png.png" alt="CEGPV algorithm" title="CEGPV algorithm"/>
     </a>
