@@ -1,6 +1,6 @@
 ---
 layout: page
-title: publications
+title: Diep publications
 description: Diep's publications
 ---
  
