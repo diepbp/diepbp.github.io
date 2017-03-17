@@ -14,6 +14,7 @@ keywords: program verification, constraint solving
   </div>
 </div>
 -->
+
 Bui Phi Diep is a PhD student in 
 [Department of Information Technology](http://www.it.uu.se/) 
 at
@@ -25,9 +26,8 @@ He is interested in program verification and constraint solving.
 
 [Download CV ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/cv.pdf)
 
-<div class="container">
-  <a href="https://github.com/diepbp"> Diep's Github</a><br/>
-</div>
+[Diep's Github ![GitHub](icons16/github-icon.png)](https://github.com/diepbp)
+
 ---
 
 <div class="container">
