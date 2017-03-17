@@ -45,7 +45,7 @@ He obtained his M.Sc in Computer Science from [University of Engineering and Tec
 
         <div class="span2">
         <a href="../assets/pics/karl_2014-03-30.jpg">
-            <img src="../assets/pics/diep_small.jpg"
+            <img src="../assets/pics/diep_bigger.jpg"
                   title="Bui Phi Diep" alt="Bui Phi Diep"/></a>
         </div> 
     </div>
