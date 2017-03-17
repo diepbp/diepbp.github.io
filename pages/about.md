@@ -20,17 +20,17 @@ member of
     <div class="row-fluid">
         <div class="span5">
             Bui Phi Diep<br/>
-            <a href="http://www.biostat.wisc.edu">Department of Biostatistics &amp; Medical Informatics</a><br/>
-            <a href="http://www.wisc.edu">University of Wisconsin&ndash;Madison</a><br/>
-            <a href="http://map.wisc.edu/s/2tie3nen">2126 Genetics/Biotechnology Center</a><br/>
-            425 Henry Mall<br/>
-            Madison, Wisconsin 53706<br/>
-            USA<br/><br/>
+            Room POL 1456 ITC, Lägerhyddsv. 2, hus 1 <br/>
+            <a href="http://www.it.uu.se/"> Department of Information Technology</a><br/>
+            Uppsala University<br/> 
+            Box 337<br/>
+            75105 Uppsala<br/>
+            Sweden<br/><br/>
 
             <div id="hide_email">
             Email: <code>bui.phi-diep</code><b>I</b><code></code><b>don't</b><code>@</code><b>want</b><code>it</code><b>spam!
             </b><code></code><b>So</b><code>.</code><b>please</b><code>uu</code><b>leave
-            </b><code></code><b>me</b><code>.</code><b>alone</b><code>e</code><b>!</b><code>se</code><br/>
+            </b><code></code><b>me</b><code>.</code><b>alone</b><code></code><b>!</b><code>se</code><br/>
             Phone: +46 722 505 696
             </div>
         </div>
