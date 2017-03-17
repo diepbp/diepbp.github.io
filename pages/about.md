@@ -44,9 +44,10 @@ He obtained his M.Sc in Computer Science from [University of Engineering and Tec
         </div>
 
         <div class="span2">
-        <a href="../assets/pics/diep_biggest.jpg">
+        <!--- <a href="../assets/pics/diep_biggest.jpg"> -->
             <img src="../assets/pics/diep_bigger.jpg"
-                  title="Bui Phi Diep" alt="Bui Phi Diep"/></a>
+                  title="Bui Phi Diep" alt="Bui Phi Diep"/>
+        <!--- </a> --> 
         </div> 
     </div>
 </div>
