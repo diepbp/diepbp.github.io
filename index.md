@@ -14,9 +14,8 @@ keywords: program verification, constraint solving
   </div>
 </div>
 -->
-<td class="center">
-    <img src="assets/pics/diep02.jpg" alt="Bui Phi Diep" title="Bui Phi Diep"/>
-</td> 
+
+<img src="assets/pics/diep02.jpg" alt="Bui Phi Diep" title="Bui Phi Diep" align="middle"/> 
 
 --- 
 
