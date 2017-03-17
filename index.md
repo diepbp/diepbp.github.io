@@ -34,7 +34,7 @@ He is interested in program verification and constraint solving.
 Bui Phi Diep<br/>
 Room POL 1456 ITC, Lägerhyddsv. 2, hus 1 <br/>
 <a href="http://www.it.uu.se/"> Department of Information Technology</a><br/>
-Uppsala University<br/> 
+<a href="http://www.uu.se/"> Uppsala University</a><br/> 
 Box 337<br/>
 75105 Uppsala<br/>
 Sweden<br/><br/>
