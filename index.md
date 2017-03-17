@@ -17,6 +17,9 @@ keywords: program verification, constraint solving
 <td class="center">
     <img src="assets/pics/diep02.jpg" alt="Bui Phi Diep" title="Bui Phi Diep"/>
 </td> 
+
+--- 
+
 Diep is a PhD student in 
 [Department of Information Technology](http://www.it.uu.se/) 
 at
