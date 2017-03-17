@@ -29,7 +29,7 @@ He is interested in program verification and constraint solving.
 [Go to Github ![GitHub](/pages/icons16/github-icon.png)](https://github.com/diepbp)
 
 
-<!---
+
 <table class="wide">
 <tr>
   <td class="left">
@@ -57,7 +57,7 @@ He is interested in program verification and constraint solving.
   </td>
 </tr>
 </table>
-
+<!---
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
