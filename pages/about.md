@@ -8,7 +8,7 @@ Bui Phi Diep is a PhD student in
 [Department of Information Technology](http://www.it.uu.se/) 
 at Uppsala University;
 member of 
-[verification group](http://www.it.uu.se/research/docs/fm/apv).
+[Verification Group](http://www.it.uu.se/research/docs/fm/apv).
 
 <!--- [curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/broman_cv.pdf) -->
 
