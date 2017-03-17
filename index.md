@@ -8,7 +8,7 @@ keywords: program verification, constraint solving
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <!--- <li><a href="{{ BASE_PATH }}/assets/broman_cv.pdf">cv</a></li> -->
+          <li><a href="{{ BASE_PATH }}/assets/cv.pdf">cv</a></li>
           <li><a href="https://github.com/diepbp">github</a></li>   
          
       </ul>
@@ -19,9 +19,7 @@ Bui Phi Diep is a PhD student in
 [Department of Information Technology](http://www.it.uu.se/) 
 at Uppsala University;
 member of 
-[Verification Group](http://www.it.uu.se/research/docs/fm/apv).
-
-<!--- [curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/broman_cv.pdf) -->
+[Verification Group](http://www.it.uu.se/research/docs/fm/apv). 
 
 ---
 
