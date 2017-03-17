@@ -13,6 +13,9 @@ member of
 
 He is interested in program verification and constraint solving.
 
+Diep started his PhD program in May, 2015 under the supversion of [Mohamed Faouzi Atig](http://www.it.uu.se/katalog/mohat117) and [Parosh Aziz Abdulla](http://user.it.uu.se/~parosh/). 
+He obtained his M.Sc in Computer Science from [University of Engineering and Technology, VNUH](http://e.uet.vnu.edu.vn) in December 2014.
+
 [Download CV ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/cv.pdf)
 
 [Go to Github ![GitHub](icons16/github-icon.png)](https://github.com/diepbp)
@@ -39,11 +42,11 @@ He is interested in program verification and constraint solving.
             Phone: +46 722 505 696
             </div>
         </div>
-<!---
+
         <div class="span2">
         <a href="../assets/pics/karl_2014-03-30.jpg">
             <img src="../assets/pics/karl_2014-03-30_small.jpg"
                   title="Bui Phi Diep" alt="Bui Phi Diep"/></a>
-        </div> -->
+        </div> 
     </div>
 </div>
