@@ -17,7 +17,7 @@ description: Diep's software
 
 ---
 
-#### <a name="qtl"></a>[FAT](https://github.com/diepbp/fat)
+#### <a name="qtl"></a>[FAT ![trau](../assets/pics/trau.png)](https://github.com/diepbp/fat)
 A string solver to check satisfiability of string constraints based on flattening and CEGAR.
 This idea is used to build a CEGAR framework that simultaneously maintains an underapproximation and an overapproximation of a constraint in the form of sets of flat automata.
 
