@@ -25,8 +25,9 @@ He is interested in program verification and constraint solving.
 
 [Download CV ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/cv.pdf)
 
-<a href="https://github.com/diepbp"> Diep's Github</a><br/>
-
+<div class="container">
+  <a href="https://github.com/diepbp"> Diep's Github</a><br/>
+</div>
 ---
 
 <div class="container">
