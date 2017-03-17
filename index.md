@@ -20,6 +20,7 @@ Bui Phi Diep is a PhD student in
 [Uppsala University](http://www.uu.se/);
 member of 
 [Verification Group](http://www.it.uu.se/research/docs/fm/apv). 
+
 He is interested in program verification and constraint solving.
 
 ---
