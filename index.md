@@ -24,8 +24,9 @@ member of
 
 He is interested in program verification and constraint solving.
 
-[Diep's Github ![GitHub](icons16/github-icon.png)](https://github.com/diepbp)
-[Download CV ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/cv.pdf)
+[Download CV ![CV as pdf](/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/cv.pdf)
+
+[Diep's Github ![GitHub](/pages/icons16/github-icon.png)](https://github.com/diepbp)
 
 ---
 
