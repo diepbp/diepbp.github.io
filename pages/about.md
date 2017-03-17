@@ -10,7 +10,7 @@ at Uppsala University;
 member of 
 [Verification Group](http://www.it.uu.se/research/docs/fm/apv).
 
-<!--- [curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/broman_cv.pdf) -->
+[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/cv.pdf)
 
 ---
 
