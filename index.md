@@ -33,17 +33,18 @@ He is interested in program verification and constraint solving.
 [Go to Github ![GitHub](/pages/icons16/github-icon.png)](https://github.com/diepbp)
 
 
-
-<table class="wide">
-<tr>
-  <td class="center">
-    <!--- <img src="assets/pics/diep02.jpg" alt="myself" title="myself"/> -->
-    <a href="pages/publpics/cegpv.html">
-        <img src="assets/publpics/cegpv.png" alt="CEGPV algorithm" title="CEGPV algorithm"/>
-    </a>
-  </td> 
-</tr> 
-</table>
+<center>
+  <table class="wide">
+  <tr>
+    <td class="center">
+      <!--- <img src="assets/pics/diep02.jpg" alt="myself" title="myself"/> -->
+      <a href="pages/publpics/cegpv.html">
+          <img src="assets/publpics/cegpv.png" alt="CEGPV algorithm" title="CEGPV algorithm"/>
+      </a>
+    </td> 
+  </tr> 
+  </table>
+</center>
 <!---
 <div class="navbar">
   <div class="navbar-inner">
