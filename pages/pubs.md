@@ -12,7 +12,7 @@ description: Diep's publications
 Parosh Aziz Abdulla, Mohamed Faouzi Atig, **Phi Diep Bui**, Yu-Fang Chen, Lukáš Holík, Ahmed Rezine, and Philipp Rümmer. 
 
 To be appeared in 38th annual ACM SIGPLAN conference on Programming Language Design and Implementation (PLDI 17).
-[![GitHub](icons16/github-icon.png)](https://github.com/diepbp/fat)
+[[GitHub](icons16/github-icon.png)](https://github.com/diepbp/fat)
 #### 2016
 
 - Counter-Example Guided Program Verification. Parosh Aziz Abdulla, Mohamed Faouzi Atig, and **Phi Diep Bui**. 
