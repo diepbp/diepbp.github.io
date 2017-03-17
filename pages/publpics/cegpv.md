@@ -8,8 +8,7 @@ title: CEGPV example
       <ul class="nav">
           <!--- <li><a href="geneticmaps_fig3.html">prev</a></li> -->
           <!--- <li><a href="tian2016_fig4.html">next</a></li> -->
-          <li> prev </li>
-          <li> next </li>
+          
       </ul>
   </div>
 </div>
