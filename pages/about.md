@@ -13,7 +13,7 @@ member of
 
 He is interested in program verification and constraint solving.
 
-Diep started his PhD program in May, 2015 under the supversion of [Mohamed Faouzi Atig](http://www.it.uu.se/katalog/mohat117) and [Parosh Aziz Abdulla](http://user.it.uu.se/~parosh/). 
+In May 2015, Diep started his PhD program in Department of Information Technology at Uppsala University (Sweden) under the supversion of [Mohamed Faouzi Atig](http://www.it.uu.se/katalog/mohat117) and [Parosh Aziz Abdulla](http://user.it.uu.se/~parosh/). 
 He obtained his M.Sc in Computer Science from [University of Engineering and Technology, VNUH](http://e.uet.vnu.edu.vn) in December 2014.
 
 [Download CV ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/cv.pdf)
