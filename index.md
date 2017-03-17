@@ -8,9 +8,8 @@ keywords: program verification, constraint solving
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/broman_cv.pdf">cv</a></li>
-          <li><a href="https://github.com/diepbp">github</a></li>
-          
+          <!--- <li><a href="{{ BASE_PATH }}/assets/broman_cv.pdf">cv</a></li> -->
+          <li><a href="https://github.com/diepbp">github</a></li>   
          
       </ul>
   </div>
