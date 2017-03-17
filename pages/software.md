@@ -1,7 +1,7 @@
 ---
 layout: page
-title: software
-description: Karl Broman's software
+title: tools
+description: Diep's software
 ---
 
 <div class="navbar">
