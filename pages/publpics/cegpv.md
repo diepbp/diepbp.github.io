@@ -13,5 +13,16 @@ title: CEGPV example
 </div>
 -->
 **CEGPV** is our counter-example guided abstraction refinement algorithm for the automatic verification of concurrent programs.
-The figure shows different steps in our algorithms. 
+The figure shows steps in our algorithms. 
+ 
+<table class="wide">
+<tr>
+  <td class="center">
+    <a href="pages/publpics/cegpv.html">
+        <img src="../../assets/publpics/cegpv_big.png" alt="CEGPV algorithm" title="CEGPV algorithm"/>
+    </a>
+  </td> 
+</tr> 
+</table>
+
 You can find more information about CEGPV in [our paper ![pdf (1.5M)](../icons16/pdf-icon.png)]({{ BASE_PATH }}../../assets/FM16.pdf)
