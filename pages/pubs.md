@@ -16,7 +16,7 @@ To be appeared in 38th annual ACM SIGPLAN conference on Programming Language Des
 #### 2016
 
 - Counter-Example Guided Program Verification. Parosh Aziz Abdulla, Mohamed Faouzi Atig, and **Phi Diep Bui**. 
-In FM 2016: Formal Methods, volume 9995 of Lecture Notes in Computer Science, pp 25-42, Springer, 2016.
+In 21st International Symposium on Formal Methods (FM 2016).
 [![pdf (1.5M)](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/FM16.pdf)
 [![supporting info](icons16/supp-icon.png)](http://link.springer.com/chapter/10.1007%2F978-3-319-48989-6_2)
 <!--[![Abstract](icons16/pubmed-icon.png)](http://www.bepress.com/jhubiostat/paper125) -->
