@@ -4,7 +4,7 @@ title: about
 description: Bui Phi Diep is a PhD student in Department of Information Technology at Uppsala University
 ---
 
-Bui Phi Diep is a PhD student in 
+Diep is a PhD student in 
 [Department of Information Technology](http://www.it.uu.se/) 
 at
 [Uppsala University](http://www.uu.se/);
