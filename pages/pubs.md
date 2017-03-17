@@ -20,8 +20,8 @@ island. [Mol Ecol](http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-294
 
 #### 2016
 
-Counter-Example Guided Program Verification. Parosh Aziz Abdulla, Mohamed Faouzi Atig, and **Phi Diep Bui**
-[![pdf (2.5M)](icons16/pdf-icon.png)](http://link.springer.com/chapter/10.1007%2F978-3-319-48989-6_2)
+Counter-Example Guided Program Verification. Parosh Aziz Abdulla, Mohamed Faouzi Atig, and **Bui Phi Diep**
+[![pdf (2.5M)](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/FM16.pdf)
 [![supporting info](icons16/supp-icon.png)](http://link.springer.com/chapter/10.1007%2F978-3-319-48989-6_2)
 <!--[![Abstract](icons16/pubmed-icon.png)](http://www.bepress.com/jhubiostat/paper125) -->
 <!--[![GitHub](icons16/github-icon.png)](https://github.com/kbroman/phyloQTLpaper) -->
