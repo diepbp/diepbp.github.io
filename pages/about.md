@@ -6,11 +6,13 @@ description: Bui Phi Diep is a PhD student in Department of Information Technolo
 
 Bui Phi Diep is a PhD student in 
 [Department of Information Technology](http://www.it.uu.se/) 
-at Uppsala University;
+[Uppsala University](http://www.uu.se/);
 member of 
-[Verification Group](http://www.it.uu.se/research/docs/fm/apv).
+[Verification Group](http://www.it.uu.se/research/docs/fm/apv). 
 
-[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/cv.pdf)
+He is interested in program verification and constraint solving.
+
+[Download CV ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/cv.pdf)
 
 ---
 

@@ -17,7 +17,7 @@ keywords: program verification, constraint solving
 
 Bui Phi Diep is a PhD student in 
 [Department of Information Technology](http://www.it.uu.se/) 
-at Uppsala University;
+[Uppsala University](http://www.uu.se/);
 member of 
 [Verification Group](http://www.it.uu.se/research/docs/fm/apv). 
 
