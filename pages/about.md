@@ -34,11 +34,11 @@ member of
             Phone: +46 722 505 696
             </div>
         </div>
-
+<!---
         <div class="span2">
         <a href="../assets/pics/karl_2014-03-30.jpg">
             <img src="../assets/pics/karl_2014-03-30_small.jpg"
                   title="Bui Phi Diep" alt="Bui Phi Diep"/></a>
-        </div>
+        </div> -->
     </div>
 </div>
