@@ -34,7 +34,7 @@ He is interested in program verification and constraint solving.
 <tr>
   <td class="center">
     <a href="pages/publpics/cegpv.html">
-        <img src="assets/publpics/cegpv.png.png" alt="CEGPV algorithm" title="CEGPV algorithm"/>
+        <img src="assets/publpics/cegpv.png" alt="CEGPV algorithm" title="CEGPV algorithm"/>
     </a>
   </td> 
 </tr> 
