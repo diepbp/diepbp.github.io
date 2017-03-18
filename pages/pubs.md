@@ -12,6 +12,8 @@ description: Diep's publications
 Parosh Aziz Abdulla, Mohamed Faouzi Atig, **Phi Diep Bui**, Yu-Fang Chen, Lukáš Holík, Ahmed Rezine, and Philipp Rümmer. 
 
 To be appeared in 38th annual ACM SIGPLAN conference on Programming Language Design and Implementation (PLDI 17).
+[PDF ![pdf (1.5M)](icons16/pdf-icon.png)]()
+[ACM ![ACM](icons16/acm.png)]()
 [Github ![GitHub](icons16/github-icon.png)](https://github.com/diepbp/fat)
 #### 2016
 
