@@ -17,7 +17,7 @@ description: Diep's software
 
 ---
 
-#### <a name="fat"></a>[Trau ![trau](../assets/pics/trau.jpg) ![GitHub](icons16/github-icon.png)](https://github.com/diepbp/fat) /ʃoʊ/
+#### <a name="fat"></a>[Trau ![trau](../assets/pics/trau.jpg)](https://github.com/diepbp/fat) /ʃoʊ/
 
 A string solver to check satisfiability of string constraints based on flattening and CEGAR.
 This idea is used to build a CEGAR framework that simultaneously maintains an underapproximation and an overapproximation of a constraint in the form of sets of flat automata.
