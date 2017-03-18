@@ -9,7 +9,7 @@ Diep is a PhD student in
 at
 [Uppsala University](http://www.uu.se/);
 member of 
-[Algorithmic Program Verification Group](http://www.it.uu.se/research/docs/fm/apv). 
+[Algorithmic Program Verification](http://www.it.uu.se/research/docs/fm/apv) group. 
 
 He is interested in program verification and constraint solving.
 
