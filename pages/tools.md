@@ -17,12 +17,12 @@ description: Diep's software
 
 ---
 
-#### <a name="fat"></a>[Trau ![trau](../assets/pics/trau.jpg)](https://github.com/diepbp/fat) /ʃoʊ/
+#### <a name="fat"></a>[Trau ![trau](../assets/pics/trau.jpg) ![GitHub](icons16/github-icon.png)](https://github.com/diepbp/fat) /ʃoʊ/
 
 A string solver to check satisfiability of string constraints based on flattening and CEGAR.
 This idea is used to build a CEGAR framework that simultaneously maintains an underapproximation and an overapproximation of a constraint in the form of sets of flat automata.
 
-The technique is also described in the paper [Flatten and Conquer (A Framework for Efficient Analysis of String Constraints)]() at ...
+The technique is also described in the paper [Flatten and Conquer (A Framework for Efficient Analysis of String Constraints)]() in PLDI17.
 
 Installation instructions as well as a manual can be found on the [Github page ![GitHub](icons16/github-icon.png)](https://github.com/diepbp/fat)
 
