@@ -9,7 +9,7 @@ description: Diep's publications
 
 #### 2017
 - Flatten and Conquer: A Framework for Efficient Analysis of String Constraints.
-Parosh Aziz Abdulla, Mohamed Faouzi Atig, **Phi Diep Bui**, Yu-Fang Chen, Lukáš Holík, Ahmed Rezine, and Philipp Rümmer. 
+Parosh Aziz Abdulla, Mohamed Faouzi Atig, **Bui Phi Diep**, Yu-Fang Chen, Lukáš Holík, Ahmed Rezine, and Philipp Rümmer. 
 
 To be appeared in 38th annual ACM SIGPLAN conference on Programming Language Design and Implementation (PLDI 17).
 <!--[PDF ![pdf (1.5M)](icons16/pdf-icon.png)]() -->
@@ -17,7 +17,7 @@ To be appeared in 38th annual ACM SIGPLAN conference on Programming Language Des
 [Github ![GitHub](icons16/github-icon.png)](https://github.com/diepbp/fat)
 #### 2016
 
-- Counter-Example Guided Program Verification. Parosh Aziz Abdulla, Mohamed Faouzi Atig, and **Phi Diep Bui**. 
+- Counter-Example Guided Program Verification. Parosh Aziz Abdulla, Mohamed Faouzi Atig, and **Bui Phi Diep**. 
 In 21st International Symposium on Formal Methods (FM 2016).
 [PDF ![pdf (1.5M)](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/FM16.pdf)
 [Slides ![slides (1.5M)](icons16/ppt-icon.png)]({{ BASE_PATH }}/assets/presentations/FM_presentation.pdf)
