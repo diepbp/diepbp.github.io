@@ -10,8 +10,8 @@ description: Diep's publications
 #### 2017
 - **Flatten and Conquer: A Framework for Efficient Analysis of String Constraints**.
 Parosh Aziz Abdulla, Mohamed Faouzi Atig, Yu-Fang Chen, Bui Phi Diep, Lukáš Holík, Ahmed Rezine, and Philipp Rümmer. PLDI 17. 
-[pdf (1.5M)](icons64/aec00.png)
-[pdf (1.5M)](icons64/aec01.png)
+[(icons64/aec00.png)]
+[(icons64/aec01.png)]
 [PDF ![pdf (1.5M)](icons16/pdf-icon.png)](http://dl.acm.org/citation.cfm?id=3062384)
 [Github ![GitHub](icons16/github-icon.png)](https://github.com/diepbp/fat)
 #### 2016
