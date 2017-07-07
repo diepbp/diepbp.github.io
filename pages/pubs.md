@@ -14,8 +14,8 @@ Parosh Aziz Abdulla, Mohamed Faouzi Atig, Yu-Fang Chen, Bui Phi Diep, Lukáš Ho
 [  ![](icons64/aec01.png)]()
 [PDF ![pdf (1.5M)](icons16/pdf-icon.png)](http://dl.acm.org/citation.cfm?id=3062384)
 [Github ![GitHub](icons16/github-icon.png)](https://github.com/diepbp/fat)
-#### 2016
 
+#### 2016
 - **Counter-Example Guided Program Verification**. Parosh Aziz Abdulla, Mohamed Faouzi Atig, and Bui Phi Diep. 
 FM 16.
 [PDF ![pdf (1.5M)](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/FM16.pdf)
