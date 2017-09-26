@@ -13,6 +13,7 @@ Parosh Aziz Abdulla, Mohamed Faouzi Atig, Yu-Fang Chen, Bui Phi Diep, Lukáš Ho
 [  ![](icons64/aec00.png)]()
 [  ![](icons64/aec01.png)]()
 [PDF ![pdf (1.5M)](icons16/pdf-icon.png)](http://dl.acm.org/citation.cfm?id=3062384)
+[Slides ![slides (1.5M)](icons16/ppt-icon.png)]({{ BASE_PATH }}/assets/presentations/PLDI_presentation.pdf)
 [Github ![GitHub](icons16/github-icon.png)](https://github.com/diepbp/fat)
 
 #### 2016
