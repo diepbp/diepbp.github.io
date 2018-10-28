@@ -9,17 +9,17 @@ author_profile: true
 #### 2018
 - **[Trau: SMT Solver for String Consraints]()**.
 Parosh Aziz Abdulla, Mohamed Faouzi Atig, Yu-Fang Chen, Bui Phi Diep, Lukáš Holík, Ahmed Rezine, and Philipp Rümmer. FMCAD 18. 
-[Slides ![slides (1.5M)](https://diepbp.github.io/files/ppt-icon.png)](https://diepbp.github.io/files/PLDI_presentation.pdf)
-[Github ![GitHub](https://diepbp.github.io/files/github-icon.png)](https://github.com/diepbp/fat)
+![slides (1.5M)](https://diepbp.github.io/files/ppt-icon.png)(https://diepbp.github.io/files/PLDI_presentation.pdf)
+![GitHub](https://diepbp.github.io/files/github-icon.png)(https://github.com/diepbp/fat)
 
 #### 2017
 - **[Flatten and Conquer: A Framework for Efficient Analysis of String Constraints]()**.
 Parosh Aziz Abdulla, Mohamed Faouzi Atig, Yu-Fang Chen, Bui Phi Diep, Lukáš Holík, Ahmed Rezine, and Philipp Rümmer. PLDI 17. 
 [  ![](icons64/aec00.png)]()
 [  ![](icons64/aec01.png)]()
-[PDF ![pdf (1.5M)](icons16/pdf-icon.png)](http://dl.acm.org/citation.cfm?id=3062384)
-[Slides ![slides (1.5M)](icons16/ppt-icon.png)](https://diepbp.github.io/files/PLDI_presentation.pdf)
-[Github ![GitHub](icons16/github-icon.png)](https://github.com/diepbp/fat)
+[PDF ![pdf (1.5M)](https://diepbp.github.io/files/pdf-icon.png)](http://dl.acm.org/citation.cfm?id=3062384)
+[Slides ![slides (1.5M)](https://diepbp.github.io/files/ppt-icon.png)](https://diepbp.github.io/files/PLDI_presentation.pdf)
+[Github ![GitHub](https://diepbp.github.io/files/github-icon.png)](https://github.com/diepbp/fat)
 
 #### 2016
 - **[Counter-Example Guided Program Verification]()**. Parosh Aziz Abdulla, Mohamed Faouzi Atig, and Bui Phi Diep. 
