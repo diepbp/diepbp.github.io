@@ -28,4 +28,4 @@ My research interest lie in general idea of program verification and constraint 
 * Feb 13, 2017. A paper titled "Flatten and Conquer: A Framework for Efficient Analysis of String Constraints" was accepted in [PLDI'17](https://conf.researchr.org/home/pldi-2017).
 * Nov 8 - Nov 12, 2016. I attended FM'17 held in Limassol, Cyprus and gave a [talk](http://lantaoyu.com/files/2017-02-07-aaai-seqgan.pdf) on counter-example guided program verification technique.
 * Feb 13, 2017. A paper titled "Counter-Example Guided Program Verification" was accepted in [FM'16](http://fm2016.cs.ucy.ac.cy/). 
-* Nov 28, 2017. A paper was accepted in the *NIPS-17 Aligned Artificial Intelligence Workshop*. 
+<!-- * Nov 28, 2017. A paper was accepted in the *NIPS-17 Aligned Artificial Intelligence Workshop*.  -->
