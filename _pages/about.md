@@ -15,9 +15,9 @@ redirect_from:
 member of [Algorithmic Program Verification](http://www.it.uu.se/research/docs/fm/apv) group. 
 My research interest lie in general idea of program verification and constraint solving, particularly in verification of concurrent programs and checking satisfiability of string constraints.
 
-* In May 2015, I started his PhD program in Department of Information Technology at Uppsala University under the supversion of [Mohamed Faouzi Atig](http://www.it.uu.se/katalog/mohat117) and [Parosh Aziz Abdulla](http://user.it.uu.se/~parosh/). 
+* In May 2015, I started a PhD program in Department of Information Technology at Uppsala University under the supversion of [Mohamed Faouzi Atig](http://www.it.uu.se/katalog/mohat117) and [Parosh Aziz Abdulla](http://user.it.uu.se/~parosh/). 
 
-* I obtained his M.Sc in Computer Science from [University of Engineering and Technology, VNUH](http://e.uet.vnu.edu.vn) in December 2014.
+* I obtained a M.Sc in Computer Science from [University of Engineering and Technology, VNUH](http://e.uet.vnu.edu.vn) in December 2014.
 
 # Recent News
 * Oct 12, 2018. I will serve on the AEC of [TACAS'19](https://www.etaps.org/2019/tacas).
