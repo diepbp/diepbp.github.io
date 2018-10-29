@@ -12,9 +12,9 @@ redirect_from:
 Education
 ======
 * **Ph.D in Computer Science, Uppsala University, 2020 (expected)**
-  * **Advisor**: Mohamed Faouzi Atig](http://www.it.uu.se/katalog/mohat117) and [Parosh Aziz Abdulla](http://user.it.uu.se/~parosh/)
+  * **Advisor**: [Mohamed Faouzi Atig](http://www.it.uu.se/katalog/mohat117) and [Parosh Aziz Abdulla](http://user.it.uu.se/~parosh/)
 * **B.Sc. and M.SC in Computer Science, University of Engineering and Technology, VNU Hanoi, 2014**
-  * **Advisors**: Mohamed Faouzi Atig](http://www.it.uu.se/katalog/mohat117) and [Nguyen Viet Ha](https://uet.vnu.edu.vn/~hanv/index-e.html)
+  * **Advisors**: [Mohamed Faouzi Atig](http://www.it.uu.se/katalog/mohat117) and [Nguyen Viet Ha](https://uet.vnu.edu.vn/~hanv/index-e.html)
   * **Master thesis**: Avoiding State-Space Explosion in Model-Checker
   
 Work experience
