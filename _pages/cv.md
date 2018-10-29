@@ -12,13 +12,13 @@ redirect_from:
 <p align="center"> <b><font size="4">Curriculum Vitae</font></b></p>
 
 <p align="center"> <font size="3"><code>bui.phi</code><b hidden>I</b><code></code><b hidden>dont</b><code>-diep@</code><b hidden>want</b><b hidden>spam!
-            </b><code>.it.</code><code>uu</code><b hidden>Leave me alone.</b><code>.se | </code>https://diepbp.github.io </font></p>
+            </b><code>it.</code><code>uu</code><b hidden>Leave me alone.</b><code>.se | </code>https://diepbp.github.io </font></p>
 
 Education
 ======
 * **Ph.D in Computer Science, Uppsala University, 2020 (expected)**
   * **Advisor**: [Mohamed Faouzi Atig](http://www.it.uu.se/katalog/mohat117) and [Parosh Aziz Abdulla](http://user.it.uu.se/~parosh/)
-* **B.Sc. and M.SC in Computer Science, University of Engineering and Technology, VNU Hanoi, 2014**
+* **B.Sc. and M.Sc in Computer Science, University of Engineering and Technology, VNU Hanoi, 2014**
   * **Advisors**: [Mohamed Faouzi Atig](http://www.it.uu.se/katalog/mohat117) and [Nguyen Viet Ha](https://uet.vnu.edu.vn/~hanv/index-e.html)
   * **Master thesis**: Avoiding State-Space Explosion in Model-Checker
   
