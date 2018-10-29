@@ -21,7 +21,7 @@ author_profile: true
             Email: <code>bui.phi</code><b hidden>I</b><code></code><b hidden>don't</b><code>-diep@</code><b hidden>want</b><code>it</code><b hidden>spam!
             </b><code></code><b hidden>So</b><code>.</code><b hidden>please</b><code>uu</code><b hidden>leave
             </b><code></code><b hidden>me</b><code>.</code><b hidden>alone</b><code></code><b hidden>!</b><code>se</code><br/>
-            Phone: <code>+46</code><b hidden>I</b><code> 7</code><b hidden>don't</b><code>22</code><b hidden>want</b><code> 5</code><b hidden>spam!
+            Phone: <code>+46</code><b hidden>I</b><code> 72 </code><b hidden>don't</b><code>2</code><b hidden>want</b><code>5</code><b hidden>spam!
             </b><code></code><b hidden>So</b><b hidden>please</b><code>05</code><b hidden>leave
             </b><code> 6</code><b hidden>me</b><b hidden>alone</b><code></code><b hidden>!</b><code>96</code><br/>
         </div>
