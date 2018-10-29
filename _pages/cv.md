@@ -7,29 +7,29 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+#<p align="center"> Bui Phi Diep</p>
 
 Education
 ======
-* Ph.D in Computer Science, Uppsala University, 2020 (expected)
-  * Advisor: Mohamed Faouzi Atig](http://www.it.uu.se/katalog/mohat117) and [Parosh Aziz Abdulla](http://user.it.uu.se/~parosh/)
-* B.Sc. and M.SC in Computer Science, University of Engineering and Technology, VNU Hanoi, 2014
-  * Advisor: Mohamed Faouzi Atig](http://www.it.uu.se/katalog/mohat117) and [Nguyen Viet Ha](https://uet.vnu.edu.vn/~hanv/index-e.html)
-  * Master thesis: 
+* **Ph.D in Computer Science, Uppsala University, 2020 (expected)**
+  * **Advisor**: Mohamed Faouzi Atig](http://www.it.uu.se/katalog/mohat117) and [Parosh Aziz Abdulla](http://user.it.uu.se/~parosh/)
+* **B.Sc. and M.SC in Computer Science, University of Engineering and Technology, VNU Hanoi, 2014**
+  * **Advisors**: Mohamed Faouzi Atig](http://www.it.uu.se/katalog/mohat117) and [Nguyen Viet Ha](https://uet.vnu.edu.vn/~hanv/index-e.html)
+  * **Master thesis**: Avoiding State-Space Explosion in Model-Checker
   
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* May 2015 - present: Teaching Assistant at Uppsala University
+  * Duties included: Teaching Assistant of  Programming Theory, and Operating Systems and Process-Oriented Programming courses.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* July to October 2018: PhD Intern at Microsoft Research
+  * Duties included:
+  * Mentor: Akash Lal
+
+* March to August 2013: Master Intern at National Institute of Informatics (NII), Tokyo
+  * Mentor: Ryuichi Takahashi
   
-Skills
+Research Interests
 ======
 * Skill 1
 * Skill 2
@@ -40,10 +40,11 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* **Trau: SMT Solver for String Consraints**. Parosh Aziz Abdulla, Mohamed Faouzi Atig, Yu-Fang Chen, Bui Phi Diep, Lukáš Holík, Ahmed Rezine, and Philipp Rümmer. FMCAD'18.
+* **Flatten and Conquer: A Framework for Efficient Analysis of String Constraints**. Parosh Aziz Abdulla, Mohamed Faouzi Atig, Yu-Fang Chen, Bui Phi Diep, Lukáš Holík, Ahmed Rezine, and Philipp Rümmer. PLDI'17. 
+
+* **Counter-Example Guided Program Verification**. Parosh Aziz Abdulla, Mohamed Faouzi Atig, and Bui Phi Diep. FM'16
+
 Talks
 ======
   <ul>{% for post in site.talks %}
@@ -52,10 +53,11 @@ Talks
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Service and leadership
+  
+Services
 ======
-* Currently signed in to 43 different slack teams
+* Artifact Evaluation Committee of TACAS'19
+* External Reviewer of CAV'18
+* External Reviewer of TACAS'17
+
