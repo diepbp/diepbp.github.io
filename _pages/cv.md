@@ -57,7 +57,7 @@ Talks
 Teaching
 ======
 * Teaching Assistant of Programming Theory: Fall 2016, Fall 2017. 
-* Teaching Assistant of Operating Systems and Process-Oriented Programming: Spring 2016, Fall 2017.
+* Teaching Assistant of Operating Systems and Process-Oriented Programming: Spring 2016, Spring 2017.
   
 Programming Languages
 ======
