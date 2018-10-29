@@ -8,8 +8,10 @@ redirect_from:
 ---
 
 <p align="center"> <b><font size="40">Bui Phi Diep</font></b></p>
-<p align="center"> <b><font size="20">Curriculum Vitae</font></b></p>
-<p align="center"> <font size="20"><code>bui.phi</code><b hidden>I</b><code></code><b hidden>don't</b><code>-diep@</code><b hidden>want</b><code>it</code><b hidden>spam!
+
+<p align="center"> <b><font size="10">Curriculum Vitae</font></b></p>
+
+<p align="center"> <font size="10"><code>bui.phi</code><b hidden>I</b><code></code><b hidden>don't</b><code>-diep@</code><b hidden>want</b><code>it</code><b hidden>spam!
             </b><code></code><b hidden>So</b><code>.</code><b hidden>please</b><code>uu</code><b hidden>leave
             </b><code></code><b hidden>me</b><code>.</code><b hidden>alone</b><code></code><b hidden>!</b><code>se</code><br/> | https://diepbp.github.io </font></p>
 
