@@ -12,8 +12,8 @@ redirect_from:
 <p align="center"> <b><font size="4">Curriculum Vitae</font></b></p>
 
 <p align="center"> <font size="3"><code>bui.phi</code><b hidden>I</b><code></code><b hidden>don't</b><code>-diep@</code><b hidden>want</b><code>it</code><b hidden>spam!
-            </b><code><code>.</code><code>uu</code><b hidden>leave
-            </b><code></code><b hidden>me</b><code>.</code><code>se</code><br/> | https://diepbp.github.io </font></p>
+            </b><code>.</code><code>uu</code><b hidden>leave me alone.
+            </b><code>.se</code><br/> | https://diepbp.github.io </font></p>
 
 Education
 ======
