@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-#<p align="center"> Bui Phi Diep</p>
+<p align="center"> <font size="40">This Bui Phi Diep</font></p>
 
 Education
 ======
@@ -31,19 +31,17 @@ Work experience
   
 Research Interests
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Constraint Solving
+* Automated Program Verification
+* Program Analysis
+* Security and Privacy
 
 Publications
 ======
 * **Trau: SMT Solver for String Consraints**. Parosh Aziz Abdulla, Mohamed Faouzi Atig, Yu-Fang Chen, Bui Phi Diep, Lukáš Holík, Ahmed Rezine, and Philipp Rümmer. FMCAD'18.
 * **Flatten and Conquer: A Framework for Efficient Analysis of String Constraints**. Parosh Aziz Abdulla, Mohamed Faouzi Atig, Yu-Fang Chen, Bui Phi Diep, Lukáš Holík, Ahmed Rezine, and Philipp Rümmer. PLDI'17. 
 
-* **Counter-Example Guided Program Verification**. Parosh Aziz Abdulla, Mohamed Faouzi Atig, and Bui Phi Diep. FM'16
+* **Counter-Example Guided Program Verification**. Parosh Aziz Abdulla, Mohamed Faouzi Atig, and Bui Phi Diep. FM'16.
 
 Talks
 ======
@@ -54,7 +52,10 @@ Talks
 Teaching
 ======
   
-  
+Programming Languages
+======
+C/C++/C# (expert), Java (proficient), Python (prior experience)
+
 Services
 ======
 * Artifact Evaluation Committee of TACAS'19
