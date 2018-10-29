@@ -23,6 +23,7 @@ My research interest lie in general idea of program verification and constraint 
 * Oct 12, 2018. I will serve on the AEC of [TACAS'19](https://www.etaps.org/2019/tacas).
 * Jul 24, 2018. A paper titled "*Trau: SMT solver for string constraints*" was accepted in [FMCAD'18](http://www.cs.utexas.edu/users/hunt/FMCAD/FMCAD18/).
 * Jul 23, 2018. I started to work as a PhD intern at [Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/) for the next three months. My mentor is [Akash Lal](https://www.microsoft.com/en-us/research/people/akashl/).
+* Aug 2 - Aug 11. I attended Marktoberdorf Summer School 2017 organized by Technical University of Munich. That was a great experience.
 * Jun 18 - Jun 23. I attended PLDI'17 held in Barcelona, Spain and gave a [talk](https://diepbp.github.io/files/PLDI_presentation.pdf) on a framework for efficient analysis of string constraints.
 * Apr 7, 2017. Our artifact of the paper "*Flatten and Conquer: A Framework for Efficient Analysis of String Constraints*" at PLDI'17 got accepted.
 * Feb 13, 2017. A paper titled "*Flatten and Conquer: A Framework for Efficient Analysis of String Constraints*" was accepted in [PLDI'17](https://conf.researchr.org/home/pldi-2017).
