@@ -13,7 +13,7 @@ redirect_from:
 
 <p align="center"> <font size="3"><code>bui.phi</code><b hidden>I</b><code></code><b hidden>don't</b><code>-diep@</code><b hidden>want</b><code>it</code><b hidden>spam!
             </b><code>.</code><code>uu</code><b hidden>leave me alone.
-            </b><code>.se</code><br/> | https://diepbp.github.io </font></p>
+            </b><code>.se | https://diepbp.github.io</code><br/>  </font></p>
 
 Education
 ======
