@@ -20,6 +20,11 @@ My research interest lie in general idea of program verification and constraint 
 * I obtained my M.Sc in Computer Science from [University of Engineering and Technology, VNUH](http://e.uet.vnu.edu.vn) in December 2014.
 
 # Recent News
+* Jun, 16, 2019. A paper titled "*Chain Free String Constraints*" was accepted in [ATVA'19](http://atva2019.iis.sinica.edu.tw/).
+* May, 13, 2019. I will serve on the AEC of [ATVA'19](http://atva2019.iis.sinica.edu.tw/).
+* Feb, 21, 2019. I will serve on the AEC of [ATVA'19](http://atva2019.iis.sinica.edu.tw/).
+* Feb, 21, 2019. I will serve on the PC of [ECOOP'19] Doctoral Symposium(https://2019.ecoop.org/track/ecoop-2019-docsymp#About).
+* Oct 12, 2018. I will serve on the AEC of [TACAS'19](https://www.etaps.org/2019/tacas).
 * Oct 12, 2018. I will serve on the AEC of [TACAS'19](https://www.etaps.org/2019/tacas).
 * Jul 24, 2018. A paper titled "*Trau: SMT solver for string constraints*" was accepted in [FMCAD'18](http://www.cs.utexas.edu/users/hunt/FMCAD/FMCAD18/).
 * Jul 23, 2018. I started to work as a PhD intern at [Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/) for the next three months. My mentor is [Akash Lal](https://www.microsoft.com/en-us/research/people/akashl/).
