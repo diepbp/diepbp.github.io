@@ -22,6 +22,7 @@ My research interest lie in general idea of program verification and constraint 
 # Recent News
 * Nov 04, 2019. I got the Erasmus grand for staff exchange program from Uppsala University to an university outside Europe. I chose to go to [SoITC - HUST](https://soict.hust.edu.vn/) and will be a guest lecture of Software Engineering course.
 * Oct 27 - Oct 31, 2019. I attended ATVA'19 held in Taipei, Taiwan. Our paper "*Chain Free String Constraints*" got **Best Paper Award** of ATVA.
+* Jul - Aug, 2019. I visited [Academia Sinica](https://www.sinica.edu.tw/en) and worked with [Yu-Fang Chen](http://bull.iis.sinica.edu.tw/yfc/doku.php). We developed [Z3-trau](https://github.com/guluchen/z3/tree/new_trau) a new version of our string solver [Trau](https://github.com/diepbp/Trau). Z3-trau is integrated much better with Z3 than Trau. Our goal is to solve the front-end problem, and more importantly, handle more types of string constraints and significantly improve performance. Taipei is a great city.
 * Jun, 16, 2019. A paper titled "*Chain Free String Constraints*" was accepted in [ATVA'19](http://atva2019.iis.sinica.edu.tw/).
 * May, 13, 2019. I will serve on the AEC of [ATVA'19](http://atva2019.iis.sinica.edu.tw/). 
 * Feb, 21, 2019. I will serve on the PC of [ECOOP'19 Doctoral Symposium](https://2019.ecoop.org/track/ecoop-2019-docsymp#About). 
