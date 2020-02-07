@@ -5,6 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+#### 2019
+- **[Chain-Free String Constraints]()**.
+Parosh Aziz Abdulla, Mohamed Faouzi Atig, Bui Phi Diep, Lukáš Holík, Petr Janků. ATVA'18. 
+[Github ![GitHub](https://diepbp.github.io/files/github-icon.png)](https://github.com/diepbp/Trau)
+**Best Paper Award**.
 
 #### 2018
 - **[Trau: SMT Solver for String Consraints]()**.
