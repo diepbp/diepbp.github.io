@@ -24,12 +24,12 @@ Education
   
 Work experience
 ======
-* May 2015 - present: Teaching Assistant at Uppsala University
-  * Duties included: Teaching Assistant of  Programming Theory, and Operating Systems and Process-Oriented Programming courses.
-
 * July to October 2018: PhD Intern at Microsoft Research
   * Duties included:
   * Mentor: Akash Lal
+
+* May 2015 - present: Teaching Assistant at Uppsala University
+  * Duties included: Teaching Assistant of  Programming Theory, and Operating Systems and Process-Oriented Programming courses.
 
 * March to August 2013: Master Intern at National Institute of Informatics (NII), Tokyo
   * Mentor: Ryuichi Takahashi
@@ -43,6 +43,7 @@ Research Interests
 
 Publications
 ======
+* **Chain-Free String Constraints**. Parosh Aziz Abdulla, Mohamed Faouzi Atig, Bui Phi Diep, Lukáš Holík, Petr Janků. ATVA'19. **Best Paper Award**
 * **Trau: SMT Solver for String Consraints**. Parosh Aziz Abdulla, Mohamed Faouzi Atig, Yu-Fang Chen, Bui Phi Diep, Lukáš Holík, Ahmed Rezine, and Philipp Rümmer. FMCAD'18.
 * **Flatten and Conquer: A Framework for Efficient Analysis of String Constraints**. Parosh Aziz Abdulla, Mohamed Faouzi Atig, Yu-Fang Chen, Bui Phi Diep, Lukáš Holík, Ahmed Rezine, and Philipp Rümmer. PLDI'17. 
 
