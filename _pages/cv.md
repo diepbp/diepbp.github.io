@@ -29,7 +29,7 @@ Work experience
   * Mentor: Akash Lal
 
 * May 2015 - present: Teaching Assistant at Uppsala University
-  * Duties included: Teaching Assistant of  Programming Theory, and Operating Systems and Process-Oriented Programming courses.
+  * Duties included: Teaching Assistant of  Programming Theory, Global Software Development, and Operating Systems and Process-Oriented Programming courses.
 
 * March to August 2013: Master Intern at National Institute of Informatics (NII), Tokyo
   * Mentor: Ryuichi Takahashi
