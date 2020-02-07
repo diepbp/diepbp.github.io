@@ -60,15 +60,15 @@ Talks
 Teaching
 ======
 * Teaching Assistant of Programming Theory: Fall 2016, Fall 2017. 
-* Teaching Assistant of Operating Systems and Process-Oriented Programming: Spring 2016, Spring 2017.
-  
+* Teaching Assistant of Operating Systems and Process-Oriented Programming: Spring 2016, Spring 2017, Spring 2018.
+* Global Software Development: Spring 2018, Spring 2019, Spring 2020.
 Programming Languages
 ======
 C/C++/C# (expert), Java (proficient), Python (prior experience)
 
 Services
 ======
-* Artifact Evaluation Committee of ATVA'19, TACAS'19, PLDI'20.
+* Artifact Evaluation Committee of PLDI'20, ATVA'19, TACAS'19.
 * Program Committee of ECOOP’19 Doctoral Symposium.
-* External Reviewer of TACAS'17, CAV'18.
+* External Reviewer of CAV'18, TACAS'17.
 
