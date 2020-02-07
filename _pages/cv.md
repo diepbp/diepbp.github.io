@@ -25,7 +25,6 @@ Education
 Work experience
 ======
 * July to October 2018: PhD Intern at Microsoft Research
-  * Duties included:
   * Mentor: Akash Lal
 
 * May 2015 - present: Teaching Assistant at Uppsala University
