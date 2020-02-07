@@ -43,8 +43,10 @@ Research Interests
 
 Publications
 ======
-* **Chain-Free String Constraints**. Parosh Aziz Abdulla, Mohamed Faouzi Atig, Bui Phi Diep, Lukáš Holík, Petr Janků. ATVA'19. **Best Paper Award**
+* **Chain-Free String Constraints**. Parosh Aziz Abdulla, Mohamed Faouzi Atig, Bui Phi Diep, Lukáš Holík, Petr Janků. ATVA'19. **Best Paper Award**.
+
 * **Trau: SMT Solver for String Consraints**. Parosh Aziz Abdulla, Mohamed Faouzi Atig, Yu-Fang Chen, Bui Phi Diep, Lukáš Holík, Ahmed Rezine, and Philipp Rümmer. FMCAD'18.
+
 * **Flatten and Conquer: A Framework for Efficient Analysis of String Constraints**. Parosh Aziz Abdulla, Mohamed Faouzi Atig, Yu-Fang Chen, Bui Phi Diep, Lukáš Holík, Ahmed Rezine, and Philipp Rümmer. PLDI'17. 
 
 * **Counter-Example Guided Program Verification**. Parosh Aziz Abdulla, Mohamed Faouzi Atig, and Bui Phi Diep. FM'16.
@@ -66,7 +68,7 @@ C/C++/C# (expert), Java (proficient), Python (prior experience)
 
 Services
 ======
-* Artifact Evaluation Committee of TACAS'19
-* External Reviewer of CAV'18
-* External Reviewer of TACAS'17
+* Artifact Evaluation Committee of ATVA'19, TACAS'19, PLDI'20.
+* Program Committee of ECOOP’19 Doctoral Symposium.
+* External Reviewer of TACAS'17, CAV'18.
 
