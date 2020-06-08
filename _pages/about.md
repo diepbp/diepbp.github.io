@@ -20,6 +20,7 @@ My research interest lie in general idea of program verification and constraint 
 * I obtained my M.Sc in Computer Science from [University of Engineering and Technology, VNUH](http://e.uet.vnu.edu.vn) in December 2014.
 
 # Recent News
+* Jun 08, 2020. I started my internship at [Google Stockholm](https://google.com/).
 * Apr 13, 2020. Our artifact of the paper titled "*Efficient Handling of String-Number Conversion*" was awared the **"Artifact Evaluated - Reusable"** badge in [PLDI'20](https://pldi20.sigplan.org/).
 * Feb 21, 2020. A paper titled "*Efficient Handling of String-Number Conversion*" was accepted in [PLDI'20](https://pldi20.sigplan.org/).
 * Feb 20, 2020. I got [Google](https://google.com/) Internship offer. My Google internship will be from May to July.
