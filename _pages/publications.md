@@ -5,6 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
+#### 2020
+- **[Efficient handling of string-number conversion]()**.
+Parosh Aziz Abdulla, Mohamed Faouzi Atig, Yu-Fang Chen, Bui Phi Diep, Julian Dolby, Petr Janků, Hsin-Hung Lin, Lukáš Holík, Wei-Cheng Wu. PLDI'20. 
+[  ![](https://diepbp.github.io/files//aec00.png)]()
+[  ![](https://diepbp.github.io/files//aec01.png)]()
+[PDF ![pdf (1.5M)](https://diepbp.github.io/files/pdf-icon.png)](https://dl.acm.org/doi/abs/10.1145/3385412.3386034) 
+[Github ![GitHub](https://diepbp.github.io/files/github-icon.png)](https://github.com/guluchen/z3/tree/new_trau)
+
+
 #### 2019
 - **[Chain-Free String Constraints]()**.
 Parosh Aziz Abdulla, Mohamed Faouzi Atig, Bui Phi Diep, Lukáš Holík, Petr Janků. ATVA'18. 
