@@ -24,6 +24,9 @@ Education
   
 Work experience
 ======
+* June to August 2020: Software Engineering Intern at Google Stockholm 
+  * Duties: Working at Google Duo team
+  
 * July to October 2018: PhD Intern at Microsoft Research
   * Mentor: Akash Lal
 
@@ -38,10 +41,12 @@ Research Interests
 * Constraint Solving
 * Automated Program Verification
 * Program Analysis
-* Security and Privacy
+* Reinforcement Learning
 
 Publications
 ======
+* **Efficient handling of string-number conversion**. Parosh Aziz Abdulla, Mohamed Faouzi Atig, Yu-Fang Chen, Bui Phi Diep, Julian Dolby, Petr Janků, Hsin-Hung Lin, Lukáš Holík, Wei-Cheng Wu. PLDI'20. 
+
 * **Chain-Free String Constraints**. Parosh Aziz Abdulla, Mohamed Faouzi Atig, Bui Phi Diep, Lukáš Holík, Petr Janků. ATVA'19. **Best Paper Award**.
 
 * **Trau: SMT Solver for String Consraints**. Parosh Aziz Abdulla, Mohamed Faouzi Atig, Yu-Fang Chen, Bui Phi Diep, Lukáš Holík, Ahmed Rezine, and Philipp Rümmer. FMCAD'18.
