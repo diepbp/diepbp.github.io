@@ -21,6 +21,7 @@ My research interest lie in general idea of program verification and constraint 
 
 # Recent News
 * Jul 05, 2020. A paper titled "*Distributed Bounded Model Checking*" was accepted in [FMCAD'20](https://fmcad.forsyte.at/FMCAD20/).
+* Jun 19, 2020. I gave a [talk](https://www.youtube.com/watch?v=t6fZfzsY9Ik) at PLDI'20 on a method for efficient handling of String-Number conversion.
 * Jun 08, 2020. I started my internship at [Google Stockholm](https://google.com/).
 * Apr 13, 2020. Our artifact of the paper titled "*Efficient Handling of String-Number Conversion*" was awared the **"Artifact Evaluated - Reusable"** badge in [PLDI'20](https://pldi20.sigplan.org/).
 * Feb 21, 2020. A paper titled "*Efficient Handling of String-Number Conversion*" was accepted in [PLDI'20](https://pldi20.sigplan.org/).
