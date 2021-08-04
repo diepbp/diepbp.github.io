@@ -11,15 +11,18 @@ redirect_from:
   <img src="files/diepbp.jpg" alt="Photo" style="width: 450px;"/> 
 </p>
  -->
-* I am a PhD student in [Department of Information Technology](http://www.it.uu.se/) at [Uppsala University](http://www.uu.se/); 
+* I am a software engineer at Google. Before joining Google, I were at Coupa Software and a PhD student in [Department of Information Technology](http://www.it.uu.se/) at [Uppsala University](http://www.uu.se/); 
 member of [Algorithmic Program Verification](http://www.it.uu.se/research/docs/fm/apv) group. 
-My research interest lie in general idea of program verification and constraint solving, particularly in verification of concurrent programs and checking satisfiability of string constraints.
+<!-- My research interest lie in general idea of program verification and constraint solving, particularly in verification of concurrent programs and checking satisfiability of string constraints. -->
 
 * In May 2015, I started my PhD program in Department of Information Technology at Uppsala University under the supversion of [Mohamed Faouzi Atig](http://www.it.uu.se/katalog/mohat117) and [Parosh Aziz Abdulla](http://user.it.uu.se/~parosh/). 
 
 * I obtained my M.Sc in Computer Science from [University of Engineering and Technology, VNUH](http://e.uet.vnu.edu.vn) in December 2014.
 
 # Recent News
+* Aug 02, 2021. I joined Google as a Software Engineer, Auth Libraries team.
+* Feb 01, 2021. I defened my PhD. The thesis is [On Solving String Constraints](http://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A1511003&dswid=7756).
+* Nov 02, 2020. I started working at [Coupa Software](https://www.coupa.com/) as a Senior Software Engineer.
 * Jul 05, 2020. A paper titled "*Distributed Bounded Model Checking*" was accepted in [FMCAD'20](https://fmcad.forsyte.at/FMCAD20/).
 * Jun 19, 2020. I gave a [talk](https://www.youtube.com/watch?v=t6fZfzsY9Ik) at PLDI'20 on a method for efficient handling of String-Number conversion.
 * Jun 08, 2020. I started my internship at [Google Stockholm](https://google.com/).

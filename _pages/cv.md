@@ -16,14 +16,18 @@ redirect_from:
 
 Education
 ======
-* **Ph.D in Computer Science, Uppsala University, 2020 (expecting)**
+* **Ph.D in Computer Science, Uppsala University, 2020**
   * **Advisors**: [Mohamed Faouzi Atig](http://www.it.uu.se/katalog/mohat117) and [Parosh Aziz Abdulla](http://user.it.uu.se/~parosh/)
+  * **PhD thesis**: [On Solving String Constraints](http://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A1511003&dswid=7756)
 * **B.Sc. and M.Sc in Computer Science, University of Engineering and Technology, VNU Hanoi, 2014**
   * **Advisors**: [Mohamed Faouzi Atig](http://www.it.uu.se/katalog/mohat117) and [Nguyen Viet Ha](https://uet.vnu.edu.vn/~hanv/index-e.html)
   * **Master thesis**: Avoiding State-Space Explosion in Model-Checker
   
 Work experience
 ======
+* August 2021 - present: Software Engineering at Google Auth Libraries team
+* November 2020 to July 2021: Senior Software Engineering at Coupa Software 
+  * Duties: Working on Coupa Sourcing Optimization
 * June to August 2020: Software Engineering Intern at Google Stockholm 
   * Duties: Working on a Reinforcement Learning project at Google Duo team
 
@@ -70,7 +74,7 @@ Teaching
 
 Programming Languages
 ======
-C/C++/C# (expert), Java (proficient), Python (prior experience)
+C/C++/C# (expert), Java (proficient), Python, JS, React (prior experience)
 
 Services
 ======
