@@ -7,11 +7,11 @@ redirect_from:
   - /resume
 ---
 [also availabe in PDF format](https://diepbp.github.io/files/cv.pdf)
-<p align="center"> <b><font size="30">Bui Phi Diep</font></b></p>
+<p align="center"> <b><font size="30">Phi Diep Bui</font></b></p>
 
 <p align="center"> <b><font size="4">Curriculum Vitae</font></b></p>
 
-<p align="center"> <font size="3"><code>diep</code><b hidden>I</b><code></code><b hidden>don't</b><code>b</code><b hidden>want</b><code>it</code><b hidden>spam!
+<p align="center"> <font size="3"><code>diep</code><b hidden>I</b><code></code><b hidden>don't</b><code>b</code><b hidden>want</b><b hidden>it</b><b hidden>spam!
             </b><code></code><b hidden>So</b><code>p</code><b hidden>please</b><code>@</code><b hidden>leave
             </b><code>g</code><b hidden>me</b><code>mail</code><b hidden>alone</b><code>.</code><b hidden>!</b><code>com</code>| </code>https://diepbp.github.io </font></p>
 
