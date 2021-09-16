@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Bui Phi Diep"
+title                    : "Phi Diep Bui"
 title_separator          : "-"
 name                     : &name "Diep"
 description              : &description "Software Engineer @ Google"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Bui Phi Diep"
+  name             : "Phi Diep Bui"
   avatar           : "profile.png"
-  bio              : "PhD student, Information Technology Department, Uppsala University"
+  bio              : "Software Engineer"
   location         : "Uppsala, Sweden"
   employer         :
   googlescholar    : https://scholar.google.se/citations?user=uehurBoAAAAJ&hl=en&oi=ao
