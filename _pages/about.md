@@ -11,7 +11,7 @@ redirect_from:
   <img src="files/diepbp.jpg" alt="Photo" style="width: 450px;"/> 
 </p>
  -->
-* I am a software engineer at Google. Before joining Google, I were at Coupa Software and a PhD student in [Department of Information Technology](http://www.it.uu.se/) at [Uppsala University](http://www.uu.se/); 
+* I am a software engineer at Google. Before joining Google, I was at Coupa Software and a PhD student in [Department of Information Technology](http://www.it.uu.se/) at [Uppsala University](http://www.uu.se/); 
 member of [Algorithmic Program Verification](http://www.it.uu.se/research/docs/fm/apv) group. 
 <!-- My research interest lie in general idea of program verification and constraint solving, particularly in verification of concurrent programs and checking satisfiability of string constraints. -->
 
