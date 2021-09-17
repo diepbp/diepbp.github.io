@@ -17,7 +17,7 @@ author_profile: true
             75317 Uppsala<br/>
             Sweden<br/><br/>
         <div id="hide_email">
-            Email: <code>diep</code><b hidden>I</b><code></code><b hidden>don't</b><code>b</code><b hidden>want</b><code>it</code><b hidden>spam!
+            Email: <code>diep</code><b hidden>I</b><code></code><b hidden>don't</b><code>b</code><b hidden>want</b><b hidden>it</b><b hidden>spam!
             </b><code></code><b hidden>So</b><code>p</code><b hidden>please</b><code>@</code><b hidden>leave
             </b><code>g</code><b hidden>me</b><code>mail</code><b hidden>alone</b><code>.</code><b hidden>!</b><code>com</code><br/>
             Phone: <code>+46</code><b hidden>I</b><code> 72 </code><b hidden>don't</b><code>2</code><b hidden>want</b><code>5</code><b hidden>spam!

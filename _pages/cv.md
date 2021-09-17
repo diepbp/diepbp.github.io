@@ -13,7 +13,7 @@ redirect_from:
 
 <p align="center"> <font size="3"><code>diep</code><b hidden>I</b><code></code><b hidden>don't</b><code>b</code><b hidden>want</b><b hidden>it</b><b hidden>spam!
             </b><code></code><b hidden>So</b><code>p</code><b hidden>please</b><code>@</code><b hidden>leave
-            </b><code>g</code><b hidden>me</b><code>mail</code><b hidden>alone</b><code>.</code><b hidden>!</b><code>com</code>| <code> diep.se </code></font></p>
+            </b><code>g</code><b hidden>me</b><code>mail</code><b hidden>alone</b><code>.</code><b hidden>!</b><code>com</code> | <code> diep.se </code></font></p>
 
 Education
 ======
