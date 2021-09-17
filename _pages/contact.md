@@ -12,7 +12,7 @@ author_profile: true
     <div class="span5">
             Phi Diep Bui<br/>
             <b hidden>I</b>
-            Tullgarnsgatan <b hidden> Flogstavagen </b> <b hidden>1002</b> 11 1001
+            Tullgarnsgatan <b hidden> Flogstavagen </b> <b hidden>1002</b> 11 1001,
             <b hidden> 75273 </b>
             75317 Uppsala<br/>
             Sweden<br/><br/>
